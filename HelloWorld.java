@@ -1,4 +1,4 @@
-package com.fannie
+package com.fannie;
 //No test
 ////offcourse test
 

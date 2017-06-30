@@ -9,6 +9,7 @@ class HelloWorld{
 		
 		for (int i = 0; i<10; i++){
 			System.out.println("Change time number" + i);
+			System.out.println("One more time");
 			
 	}
 }
